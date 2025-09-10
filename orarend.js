@@ -19,6 +19,14 @@ const hetfo = [
     oraszam: 5,
     tantargy: "földrajz",
   },
+  {
+    oraszam: 6,
+    tantargy: "irodalom",
+  },
+  {
+    oraszam: 7,
+    tantargy: "vizuális kultúra",
+  },
 ];
 
 const kedd = [
@@ -41,6 +49,10 @@ const kedd = [
   {
     oraszam: 5,
     tantargy: "matematika",
+  },
+  {
+    oraszam: 6,
+    tantargy: "földrajz",
   },
 ];
 
@@ -87,6 +99,18 @@ const csut = [
   {
     oraszam: 5,
     tantargy: "kémia",
+  },
+  {
+    oraszam: 6,
+    tantargy: "kémia",
+  },
+  {
+    oraszam: 7,
+    tantargy: "fizika",
+  },
+  {
+    oraszam: 8,
+    tantargy: "osztályfőnöki",
   },
 ];
 
